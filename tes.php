@@ -1,0 +1,1 @@
+<img alt="testing" src="assets/barcode.php?text=899818237836" />

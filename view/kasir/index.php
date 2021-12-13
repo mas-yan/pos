@@ -1,0 +1,1 @@
+<li><a href="../../logout.php" onclick="return confirm('yakin ingin logout')"><i class="lnr lnr-exit"></i> <span>Logout</span></a></li>
